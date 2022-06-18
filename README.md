@@ -1,4 +1,4 @@
-#Hi there 👋
+###Hi there 👋
 
 🔹Olá, me chamo Felipe Pontes, Estudante de Engenharia na Universidade Federal de Pernambuco, no 1º ano de curso, estudando as áreas que são básicas para a engenharia, e paralelo a isso estudo de desenvolvimento de software atravéz da iniciatíva do santander que me concedeu uma bolsa no Bootcamp (Fullstack developer).
 Nesse contexto, pude compreender o funcionamento da internet, dispositivos de rede, sistemas operacionais e outros conteúdos, mas, me apaixonei pelo desenvolvimento de aplicações na web, em especial no FRONT-END (Html, CSS e Javascript). 
