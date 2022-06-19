@@ -1,15 +1,29 @@
-Hi there 👋
-
-🔹Olá, me chamo Felipe Pontes, Estudante de Engenharia na Universidade Federal de Pernambuco, no 1º ano de curso, estudando as áreas que são básicas para a engenharia, e paralelo a isso estudo de desenvolvimento de software atravéz da iniciatíva do santander que me concedeu uma bolsa no Bootcamp (Fullstack developer).
-Nesse contexto, pude compreender o funcionamento da internet, dispositivos de rede, sistemas operacionais e outros conteúdos, mas, me apaixonei pelo desenvolvimento de aplicações na web, em especial no FRONT-END (Html, CSS e Javascript). 
-Sigo buscando conhecimentos diversos no desenvolvimento de software!
-
-🔹Aqui está informações sobre Mim:
-
-Link do meu Linkedin: https://www.linkedin.com/in/felipe-pontes-594229203
-
-Link do meu github: https://github.com/Felipeppontes
-
-Link do meu Email: https://felipeppontes18@gmail.com
-
-tel(81)98340-3332 / (81) 98509-8669
+### OLÁ, EU SOU FELIPE PONTES
+<div align="center">
+  <a href="https://github.com/Felipeppontes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipeppontes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipeppontes&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="instagram.com/felipe_ppontes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+  <a href = "mailto:felipeppontes18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  <a href="linkedin.com/in/felipe-pontes-594229203" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/Felipeppontes/Felipeppontes/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
