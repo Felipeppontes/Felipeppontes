@@ -1,8 +1,9 @@
 ### OLÁ, EU SOU FELIPE PONTES
 
-🔹Hoje trabalho com Front-end
-🔹Estudo Javascript
-🔹Sou estudande de Engenharia
+🔹<p>Hoje trabalho com Front-end</p>
+🔹<p>Estudo Javascript</p>
+🔹<p>Sou estudande de Engenharia</p>
+<br>
 
 <div align="center">
   <a href="https://github.com/Felipeppontes">
