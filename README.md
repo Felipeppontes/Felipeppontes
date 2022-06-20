@@ -2,7 +2,7 @@
 
 <p>🔹Hoje trabalho com Front-end</p>
 <p>🔹Estudo Javascript</p>
-<p>🔹Sou estudande de Engenharia</p><br>
+<p>🔹Sou estudande de Engenharia</p>
 
   ##
 
