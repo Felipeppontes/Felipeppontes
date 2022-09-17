@@ -1,7 +1,8 @@
 ### OLÁ, EU SOU FELIPE PONTES, ESTUDANTE E AMANTE DE TECNOLOGIA🖥️
 <p>💠Aluno no Bootcamp-Fullstack (Santander)</p>
-<p>💠Hoje desenvolvo com Front-end</p>
-<p>💠Estudando Javascript</p>
+<p>💠HTML e CSS</p>
+<p>💠Cursando: Programador de Sistemas no SENAC/PE</p>
+<p>💠Estudando Python e Banco de Dados</p>
 <p>💠Sou estudande de Engenharia na UFPE</p>
 
   ##
@@ -15,6 +16,7 @@
   
   <img align="center" alt="Rafa-HTML" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Rafa-CSS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
   ##
