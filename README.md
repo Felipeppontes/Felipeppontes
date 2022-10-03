@@ -1,4 +1,5 @@
 ### OLÁ, EU SOU FELIPE PONTES, ESTUDANTE E AMANTE DE TECNOLOGIA🖥️
+<hr>
 <p>💠Aluno no Bootcamp-Fullstack (Santander)</p>
 <p>💠HTML e CSS</p>
 <p>💠Cursando: Programador de Sistemas no SENAC/PE</p>
