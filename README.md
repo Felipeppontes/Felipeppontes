@@ -1,11 +1,12 @@
 ### OLÁ, EU SOU FELIPE PONTES, ESTUDANTE E AMANTE DE TECNOLOGIA🖥️
 ##
 
-<p>💠Aluno no Bootcamp-Fullstack (Santander)</p>
-<p>💠HTML e CSS</p>
+<p>💠Aluno no Bootcamp-Ciência de Dados (Digital Inovation One e UNIMED BH)</p>
+<p>💠Sou estudande de Engenharia na UFPE</p>
 <p>💠Cursando: Programador de Sistemas no SENAC/PE</p>
 <p>💠Estudando Python e Banco de Dados</p>
 <p>💠Sou estudande de Engenharia na UFPE</p>
+<p>💠HTML e CSS</p>
 
   ##
 
