@@ -1,5 +1,4 @@
 ### OLÁ, EU SOU FELIPE PONTES, ESTUDANTE E AMANTE DE TECNOLOGIA🖥️
-##
 
 <p>💠Aluno no Bootcamp-Ciência de Dados (Digital Inovation One e UNIMED BH)</p>
 <p>💠Sou estudande de Engenharia na UFPE</p>
