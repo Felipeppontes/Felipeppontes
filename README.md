@@ -22,8 +22,6 @@
   <img align="center" alt="Rafa-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
           
-  #<img align="center" alt="Rafa-C" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/devicon.min.css">
-          
 </div>
   
   ##
