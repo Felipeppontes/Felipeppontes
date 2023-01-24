@@ -2,9 +2,10 @@
 ##
 
 <p>💠Sou estudande de Engenharia na UFPE</p>
-<p>💠Cursando: Programador de Sistemas no SENAC/PE</p>
+<p>💠Programador de Sistemas formado no SENAC/PE</p>
 <p>💠Estudando Python e Banco de Dados</p>
-<p>💠HTML e CSS</p>
+<p>💠Estudando C do básico ao intermediário</p>
+<p>💠conhecimentos básicos em HTML e CSS</p>
 
   ##
 
