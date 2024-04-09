@@ -1,9 +1,9 @@
 ### OLÁ, EU SOU FELIPE PONTES, ESTUDANTE E AMANTE DE TECNOLOGIA🖥️
 ##
 
-<p>💠Sou estudande de Engenharia na UFPE</p>
+<p>💠Sou estudande de Engenharia de telecomunicações na UFPE</p>
 <p>💠Programador de Sistemas pelo SENAC/PE</p>
-<p>💠Estudando Python e Banco de Dados</p>
+<p>💠Estudando Sistemas embarcados</p>
 <p>💠Estudando C</p>
 <p>💠conhecimentos básicos em HTML e CSS</p>
 
