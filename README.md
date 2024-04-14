@@ -3,8 +3,8 @@
 
 <p>💠Sou estudande de Engenharia de telecomunicações na UFPE</p>
 <p>💠Programador de Sistemas pelo SENAC/PE</p>
-<p>💠Estudando Sistemas embarcados</p>
-<p>💠Estudando C</p>
+<p>💠Estudando Microcontroladores [Arduino, ESP32, STM32]</p>
+<p>💠Estudando C e C++</p>
 <p>💠conhecimentos básicos em HTML e CSS</p>
 
   ##
