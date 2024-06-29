@@ -6,6 +6,7 @@
 <p>💠Estudando Microcontroladores [Arduino, ESP32, STM32]</p>
 <p>💠Estudando C e C++</p>
 <p>💠conhecimentos básicos em HTML e CSS</p>
+<p>💠Estudando Desenvolvimento de sistemas embarcados</p>
 
   ##
 
